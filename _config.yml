@@ -1,0 +1,8 @@
+title: Test title for page
+email: email@domain.com
+description: >
+  This is some long description block.
+  Very long.
+  Much description.
+
+theme: jekyll-theme-dinky
